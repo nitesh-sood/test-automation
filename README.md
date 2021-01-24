@@ -1,9 +1,9 @@
 # test-automation
 
 Tools used:  
-Junit. 
-Cucumber  
-Java. 
+Junit\
+Cucumber\
+Java\ 
 Selenium  
   
 The tests are triggered from the Junit test runner: /src/test/java/com/qa/runner/RunnerTest.java. 
