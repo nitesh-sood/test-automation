@@ -11,4 +11,4 @@ One feature file is created to define the scenarios: /src/test/resources/feature
 Step definitions and Hooks are placed at: /src/test/java/com/qa/stepdefinitions\
 Page objects are at: /src/test/java/com/qa/pages/\
 \
-The tests are currently configured to run only in chrome\
+The tests are currently configured to run only in chrome
