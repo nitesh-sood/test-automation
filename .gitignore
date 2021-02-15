@@ -1,2 +1,2 @@
 /target
-#/src/test/java/com/qa/runner/TestClass.java
+/src/test/java/com/qa/runner/TestClass.java
